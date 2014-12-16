@@ -1,0 +1,804 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-b",
+				"border-bottom-style"
+			],
+			[
+				"bord",
+				"border-left-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"o",
+				"orientation"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"in",
+				"innerHeight"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"borderbo",
+				"border-bottom-width"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"blog",
+				"blogContainer"
+			],
+			[
+				"getE",
+				"getElementsByTagName"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"blo",
+				"blogContent"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"button",
+				"button_content"
+			],
+			[
+				"re",
+				"revealed"
+			],
+			[
+				"RE",
+				"required"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ohmanfoo.py",
+			"settings":
+			{
+				"buffer_size": 5028,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/views.py",
+			"settings":
+			{
+				"buffer_size": 4711,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "models/models.py",
+			"settings":
+			{
+				"buffer_size": 1758,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/content.html",
+			"settings":
+			{
+				"buffer_size": 1420,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "static/js/ohman.js",
+			"settings":
+			{
+				"buffer_size": 2294,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/admin/Downloads/hw5/blog.py",
+			"settings":
+			{
+				"buffer_size": 9250,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1694,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "static/css/main.css",
+			"settings":
+			{
+				"buffer_size": 7186,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/gapp/udac/main.py",
+		"/C/gapp/ohmanfoo/app.yaml",
+		"/C/gapp/ohmanfoo/templates/front.html",
+		"/C/gapp/filmfile/templates/base.html",
+		"/C/Users/admin/Downloads/web-starter-kit-0.2.0-beta/app/scripts/main.js",
+		"/C/gapp/app.yaml",
+		"/C/gapp/static/js/ohman.js",
+		"/C/gapp/templates/content.html",
+		"/C/gapp/views/views.py",
+		"/C/gapp/ohmanfoo.py",
+		"/C/gapp/templates/base.html",
+		"/C/gapp/static/css/main.css",
+		"/C/gapp/filmfile/app.yaml",
+		"/C/gapp/filmfile/views/views.py",
+		"/C/Users/admin/Documents/resume/windows-www/ohmanfoo/googlewebstart/web-starter-kit-0.2.0-beta/app/manifest.webapp",
+		"/C/gapp/ohmanfoo/templates/blog.html",
+		"/C/Users/admin/Downloads/web-starter-kit-0.2.0-beta/app/robots.txt",
+		"/C/Program Files/Google/google_appengine/php/new_project_template/main.php",
+		"/C/Program Files/Google/google_appengine/new_project_template/app.yaml",
+		"/C/Program Files/Google/google_appengine/new_project_template/main.py",
+		"//ohmanstash/Public/tomove/Starcraft No Install/Readme.cnt",
+		"/C/gapp/ohmanfoo/templates/base.html",
+		"/C/gapp/ohmanfoo/templates/content.html",
+		"/C/gapp/ohmanfoo/templates/projects.html",
+		"/C/Users/admin/Documents/Downloads/Roller Coaster Tycoon 3 Platinum (Original Game + All Expansions ) - CarlesNeo/YO ! ReadME !.txt",
+		"/C/Users/admin/Downloads/Game of Thrones - 04x05 - First of His Name.KILLERS.English.HI.C.updated.Addic7ed.com.srt",
+		"/C/gapp/ohmanfoo/templates/post.html",
+		"/C/gapp/ohmanfoo/templates/project.html",
+		"/C/gapp/ohmanfoo/ohmanfoo.py",
+		"/C/gapp/ohmanfoo/static/js/ohman.js",
+		"/C/gapp/ohmanfoo/static/js/ohmanstart.js",
+		"/C/gapp/ohmanfoo/static/js/effect.js",
+		"/C/gapp/ohmanfoo/views/views.py",
+		"/C/gapp/ohmanfoo/models/models.py",
+		"/C/gapp/ohmanfoo/static/js/effects.js",
+		"/C/gapp/ohmanfoo/static/css/main.css",
+		"/C/gapp/ohmanfoo/lib/vartools.py",
+		"/C/gapp/ohmanfoomodular/templates/admin/newpost.html",
+		"/C/gapp/ohmanfoomodular/templates/admin/newproject.html",
+		"/C/gapp/ohmanfoomodular/templates/projects.html",
+		"/C/gapp/ohmanfoomodular/templates/post.html",
+		"/C/gapp/ohmanfoomodular/templates/project.html",
+		"/C/gapp/ohmanfoomodular/templates/permalink.html",
+		"/C/gapp/ohmanfoomodular/templates/signup-form.html",
+		"/C/gapp/ohmanfoomodular/templates/front.html",
+		"/C/gapp/ohmanfoomodular/templates/blog.html",
+		"/C/gapp/ohmanfoomodular/templates/content.html",
+		"/C/gapp/ohmanfoomodular/models/models.py",
+		"/C/gapp/ohmanfoomodular/views/views.py",
+		"/C/gapp/ohmanfoomodular/ohmanfoomodular.py",
+		"/C/gapp/ohmanfoomodular/templates/base.html",
+		"/C/gapp/ohmanfoomodular/static/css/main.css",
+		"/C/gapp/ohmanfoomodular/templates/aboutme.html",
+		"/C/gapp/ohmanfoo-modular/templates/admin/newproject.html",
+		"/C/gapp/ohmanfoo-modular/templates/projects.html",
+		"/C/gapp/ohmanfoo-modular/templates/admin/newpost.html",
+		"/C/gapp/ohmanfoo-modular/templates/post.html",
+		"/C/gapp/ohmanfoo-modular/templates/content.html",
+		"/C/gapp/ohmanfoo-modular/templates/blog.html",
+		"/C/gapp/ohmanfoo-modular/templates/base.html",
+		"/C/gapp/ohmanfoo-modular/lib/vartools.py",
+		"/C/gapp/ohmanfoo-modular/models/models.py",
+		"/C/gapp/ohmanfoo-modular/app.yaml",
+		"/C/gapp/ohmanfoo-modular/views/views.py",
+		"/C/gapp/ohmanfoo-modular/ohmanfoomodular.py",
+		"/C/gapp/ohmanfoo-modular/templates/permalink.html",
+		"/C/gapp/ohmanfoo-modular/lib/__init__.py",
+		"/C/gapp/ohmanfoo-modular/lib/vartools",
+		"/C/gapp/ohmanfoo-modular/lib/valid.py",
+		"/C/gapp/ohmanfoo-modular/lib/jinja.py",
+		"/C/gapp/ohmanfoo-modular/lib/main.py",
+		"/C/gapp/ohmanfoo-modular/lib/imports.py",
+		"/C/gapp/ohmanfoo-modular/ohmanfoo-modular.py",
+		"/C/gapp/ohmanfoo-modular/imports.py",
+		"/C/gapp/ohmanfoo-modular/main.py",
+		"/C/gapp/ohmanfoo-modular/blogstuff.py",
+		"/C/gapp/ohmanfoo-modular/userstuff.py",
+		"/C/gapp/ohmanfoo-modular/projects.py",
+		"/C/gapp/ohmanfoo-modular/models.py",
+		"/C/gapp/ohmanfoo-modular/vartools.py",
+		"/C/gapp/ohmanfoo-modular/secret.py",
+		"/C/gapp/ohmanfoo/templates/permalink.html",
+		"/C/gapp/ohmanfoo/templates/admin/newproject.html",
+		"/C/gapp/ohmanfoo/templates/admin/newpost.html",
+		"/C/Users/admin/Downloads/hw4/blog.py",
+		"/C/Users/admin/Downloads/hw4/templates/base.html",
+		"/C/Users/admin/Downloads/hw4/templates/front.html",
+		"/C/Users/admin/Downloads/hw4/templates/login-form.html",
+		"/C/Users/admin/Downloads/hw4/templates/newpost.html",
+		"/C/Users/admin/Downloads/hw4/templates/permalink.html",
+		"/C/Users/admin/Downloads/hw4/templates/post.html",
+		"/C/Users/admin/Downloads/hw4/templates/signup-form.html",
+		"/C/gapp/ohmanfoo/templates/aboutme.html",
+		"/C/gapp/rsvp/nm.py",
+		"/C/gapp/rsvp/nm.pyc",
+		"/C/gapp/ohmanfoo/vartools.py",
+		"/C/gapp/rsvp/templates/admin/register.html",
+		"/C/gapp/rsvp/templates/front.html",
+		"/C/gapp/rsvp/templates/base.html",
+		"/C/gapp/rsvp/templates/admin/rsvplist.html",
+		"/C/gapp/rsvp/templates/invite.html",
+		"/C/gapp/udac/templates/front.html",
+		"/C/gapp/udac/templates/base.html",
+		"/C/gapp/rsvp/main.py",
+		"/C/gapp/rsvp/templates/rsvplist.html",
+		"/C/gapp/rsvp/app.yaml",
+		"/C/gapp/rsvp/main.pyc",
+		"/C/gapp/udac/templates/welcome.html",
+		"/C/gapp/udac/templates/login-form.html",
+		"/C/gapp/rsvp/templates/post.html",
+		"/C/gapp/ohmanfoo-modular/ohmanfoo.py",
+		"/C/gapp/ohmanfoo/ohmanfoo.pyc",
+		"/D/setup.ini",
+		"/C/Users/admin/Documents/udacity/hw4/templates/base.html",
+		"/C/Users/admin/Documents/udacity/hw4/static/main.css",
+		"/C/Users/admin/Documents/udacity/hw4/templates/welcome.html",
+		"/C/Users/admin/Documents/udacity/hw4/templates/front.html",
+		"/C/gapp/ohmanfoo/main.py",
+		"/C/Users/admin/Documents/www/ohmanfoo/index.html",
+		"//ohmanstash/Public/tomove/nm.py",
+		"//ohmanstash/Public/tomove/app.yaml",
+		"/C/Users/admin/Documents/www/hankmalloy/main/fuck.html",
+		"/C/Users/admin/Documents/www/index.html",
+		"/C/Users/admin/Documents/www/hankmalloy/main/fuck.php",
+		"/C/Users/admin/Documents/www/ralocal/ra/main/fuck.html",
+		"/C/Users/admin/Downloads/wysiwygPro_preview_eacf331f0ffc35d4b482f1d15a887d3b.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"put",
+			"flex-content",
+			"flex-co",
+			"mail",
+			"ohmanfoo",
+			"padding-",
+			"0D2430",
+			"row-wrap",
+			"flex-flow",
+			"flex-wr",
+			"flex-",
+			"config",
+			"content.style.display === 'none'",
+			"pjContent.style.width = '100%';\n                blogContent.style.width = '100%';",
+			"side-pro",
+			"flex-con",
+			"side-pr",
+			".about",
+			"min-h",
+			"side-",
+			"max-h",
+			"side-pr",
+			"side",
+			"url",
+			"post h",
+			"icons ",
+			"33",
+			"fantasy",
+			" order",
+			"-web",
+			"garamond",
+			"gara",
+			"document",
+			"overflow",
+			"ohmanfoo",
+			"back",
+			"scroll",
+			"blurb",
+			"login-form.html",
+			"'login-form.html'",
+			"p=",
+			"p =",
+			"User.",
+			"User",
+			"check_secure",
+			"check",
+			"jinja_env",
+			"render_post",
+			"render_str",
+			"make_se",
+			" p",
+			"p ",
+			"post",
+			" name ",
+			"pw_has",
+			"random",
+			"BlogHandler",
+			"register",
+			"jinja_",
+			"prim",
+			"footer",
+			"border",
+			"opacit",
+			"white",
+			"33",
+			"float",
+			"flex",
+			"application",
+			"BlogHandler"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ohmanfoo.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4222,
+								4222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1890.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1470.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "models/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/content.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "static/js/ohman.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								896,
+								896
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 58.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/admin/Downloads/hw5/blog.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7529,
+								7532
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3554.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								967,
+								967
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "static/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4684,
+								4684
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3321.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.552976736267,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ohmanfolio.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\gapp\\filmfile\\filmfile.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
