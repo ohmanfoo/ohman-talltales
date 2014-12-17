@@ -90,20 +90,17 @@ class NewProject(OhmanHandler):
         blurb = self.request.get('blurb')
 
         if title and blurb and url:
-            screenshot = 'somethinghere'
             pro = Project(parent = project_key(),
                             url = url, 
                             title = title,
-                            blurb = blurb, 
-                            screenshot = screenshot)
+                            blurb = blurb)
             pro.put()
             self.redirect('/')
         else:
-            error = "shit negro"
+            error = "project arguments error"
             self.render("newproject.html", url = url,
                                             title = title,
                                             blurb = blurb,
-                                            screenshot = screenshot,
                                             error = error)
 
 class NewPost(OhmanHandler):
@@ -129,7 +126,7 @@ class NewPost(OhmanHandler):
             p.put()
             self.redirect('/blog/%s' % str(p.key().id()))
         else:
-            error = 'shit negro'
+            error = 'post arguments error'
             self.render('/admin/newpost', subject=subject, 
             			content=content, 
             			error=error)

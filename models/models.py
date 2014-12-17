@@ -43,7 +43,6 @@ class Project(db.Model):
     url = db.StringProperty(required = True)
     title = db.StringProperty(required = True)
     blurb = db.StringProperty(multiline = True)
-    screenshot = ".jpg"
 
     def render(self):
         return render("project.html", app = self)
