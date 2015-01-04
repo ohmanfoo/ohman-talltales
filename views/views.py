@@ -126,8 +126,8 @@ class NewPost(OhmanHandler):
             p.put()
             self.redirect('/blog/%s' % str(p.key().id()))
         else:
-            error = 'post arguments error'
-            self.render('/admin/newpost', subject=subject, 
+            error = 'subject and content are both required'
+            self.render('/admin/newpost.html', subject=subject, 
             			content=content, 
             			error=error)
 

@@ -5,7 +5,6 @@ import webapp2
 import jinja2
 from lib.vartools import *
 from google.appengine.api import urlfetch
-from google.appengine.api import mail
 from google.appengine.ext import db
 from models.models import *
 

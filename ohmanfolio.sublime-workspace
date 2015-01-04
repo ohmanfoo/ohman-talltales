@@ -143,7 +143,7 @@
 			"file": "ohmanfoo.py",
 			"settings":
 			{
-				"buffer_size": 5028,
+				"buffer_size": 4989,
 				"line_ending": "Windows"
 			}
 		},
@@ -151,7 +151,7 @@
 			"file": "views/views.py",
 			"settings":
 			{
-				"buffer_size": 4711,
+				"buffer_size": 4570,
 				"line_ending": "Windows"
 			}
 		},
@@ -159,32 +159,8 @@
 			"file": "models/models.py",
 			"settings":
 			{
-				"buffer_size": 1758,
+				"buffer_size": 1743,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "templates/content.html",
-			"settings":
-			{
-				"buffer_size": 1420,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "static/js/ohman.js",
-			"settings":
-			{
-				"buffer_size": 2294,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/admin/Downloads/hw5/blog.py",
-			"settings":
-			{
-				"buffer_size": 9250,
-				"line_ending": "Unix"
 			}
 		},
 		{
@@ -199,7 +175,15 @@
 			"file": "static/css/main.css",
 			"settings":
 			{
-				"buffer_size": 7186,
+				"buffer_size": 7208,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "static/js/ohman.js",
+			"settings":
+			{
+				"buffer_size": 2294,
 				"line_ending": "Windows"
 			}
 		}
@@ -231,6 +215,9 @@
 	},
 	"file_history":
 	[
+		"/home/ohmanfoo/Public/www/portfolio/ohman-talltales/templates/content.html",
+		"/home/ohmanfoo/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/admin/Downloads/hw5/blog.py",
 		"/C/gapp/udac/main.py",
 		"/C/gapp/ohmanfoo/app.yaml",
 		"/C/gapp/ohmanfoo/templates/front.html",
@@ -355,12 +342,11 @@
 		"/C/Users/admin/Documents/www/hankmalloy/main/fuck.html",
 		"/C/Users/admin/Documents/www/index.html",
 		"/C/Users/admin/Documents/www/hankmalloy/main/fuck.php",
-		"/C/Users/admin/Documents/www/ralocal/ra/main/fuck.html",
-		"/C/Users/admin/Downloads/wysiwygPro_preview_eacf331f0ffc35d4b482f1d15a887d3b.php"
+		"/C/Users/admin/Documents/www/ralocal/ra/main/fuck.html"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -374,6 +360,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"set_",
 			"put",
 			"flex-content",
 			"flex-co",
@@ -460,7 +447,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -469,75 +456,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5028,
+						"buffer_size": 4989,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4222,
-								4222
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1890.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "views/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4711,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1470.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "models/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1758,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								1257,
+								1257
 							]
 						],
 						"settings":
@@ -550,29 +477,29 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "templates/content.html",
+					"buffer": 1,
+					"file": "views/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1420,
+						"buffer_size": 4570,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								362,
-								362
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/Python/Python.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -584,85 +511,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "static/js/ohman.js",
+					"buffer": 2,
+					"file": "models/models.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2294,
+						"buffer_size": 1743,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								896,
-								896
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 58.0,
-						"translation.y": 210.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Users/admin/Downloads/hw5/blog.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9250,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7529,
-								7532
+								1258,
+								1258
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3554.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "templates/base.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1694,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								967,
-								967
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -676,24 +543,54 @@
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
-					"buffer": 7,
-					"file": "static/css/main.css",
+					"buffer": 3,
+					"file": "templates/base.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7186,
+						"buffer_size": 1694,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4684,
-								4684
+								1595,
+								1595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "static/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5295,
+								5295
 							]
 						],
 						"settings":
@@ -702,11 +599,41 @@
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 3321.0,
+						"translation.x": -0.0,
+						"translation.y": 4222.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "static/js/ohman.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								663,
+								663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -714,7 +641,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -740,7 +667,7 @@
 		"cols":
 		[
 			0.0,
-			0.552976736267,
+			0.517820486267,
 			1.0
 		],
 		"rows":
@@ -757,7 +684,7 @@
 	"project": "ohmanfolio.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
