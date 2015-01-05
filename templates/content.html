@@ -1,31 +1,9 @@
 {% extends "base.html" %}
 
 {% block content %}
-	<div class="box boxes">
-        <div class="box box1">
-            <article id="aboutme">
-            	{% block aboutme %}
-                <h2>
-                <a href="/">#HOME</a>
-                </h2>
-            	{% endblock %}
-            </article>
-        </div>
-        <div class="box box2"><h2>.RAMBLINGS</h2></div>
-        <div class="box box3"><h2>.CODINGS</h2></div>
-        <div class="box box1">
-            <article id="contact">
-                {% block contact %}
-                <h2>
-                <a href="/">@CONTACT</a>
-                </h2>
-                {% endblock %}
-            </article>
-        </div>
-    </div>
     <article id="blog" class='flex-content'>
     {% block blog %}
-    {% for post in posts %}
+        {% for post in posts %}
         <div class='flex-content post'>
             <h3>{{post.subject}}</h3>
             <p class='post-content'>{{post.content}}</p>

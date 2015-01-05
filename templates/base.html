@@ -10,15 +10,19 @@
 <body>
     <div class="flex-container">
         <div id="header-banner-logo" class="header">
-            <div class="banner">.ohman(<span class="white-font">foo</span>)</div>
+            <a href="/" class="banner">.ohman(<span class="white-font">foo</span>)</a>
         </div>
         <div class="ohman-content flex-container">
-        <div class="icons">
-            <a href="/"><img src="https://i.imgur.com/CQsmyDT.jpg?1" title="twitter" /></a>
-            <a href="/"><img src="https://i.imgur.com/ib6tnZT.png?1" title="facebook" /></a>
-            <a href="/"><img src="https://i.imgur.com/fKcMa1H.png?1" title="linkedin" /></a>
-            <a href="https://github.com/ohmanfoo"><img src="https://i.imgur.com/KzzsxZl.jpg?1" title="github" /></a>
-            <a href="/"><img src="https://i.imgur.com/RszFIPh.png?1" title="gplus" /></a>
+            <div class="icons">
+                <a href="/"><img src="https://i.imgur.com/fKcMa1H.png?1" title="linkedin" /></a>
+                <a href="https://github.com/ohmanfoo"><img src="https://i.imgur.com/KzzsxZl.jpg?1" title="github" /></a>
+                <a href="/"><img src="https://i.imgur.com/RszFIPh.png?1" title="gplus" /></a>
+            </div>
+        <div class="box boxes">
+            <div class="box box1"><h2><a href="/">#HOME</a></h2></div>
+            <div class="box box2"><h2>.<a href="/blog">RAMBLINGS</a></h2></div>
+            <div class="box box3"><h2><a href="/projects">.CODINGS</a></h2></div>
+            <div class="box box1"><h2><a href="/">@CONTACT</a></h2></div>
         </div>
             {% block content %}
             {% block blog %}
@@ -27,13 +31,11 @@
             {% endblock %}
             {% endblock %}
         </div>
-        <div class="footer">
-            <h2>
-                <a href="/">#HOME</a>
-                <a href="/blog">#RAMBLINGS</a>
-                <a href="/projects">#CODINGS</a>
-                <a href="/contact">@CONTACT</a>
-            </h2>
+        <div class="box boxes">
+            <div class="box box1"><h2><a href="/">#HOME</a></h2></div>
+            <div class="box box2"><h2>.<a href="/blog">RAMBLINGS</a></h2></div>
+            <div class="box box3"><h2><a href="/projects">.CODINGS</a></h2></div>
+            <div class="box box1"><h2><a href="/">@CONTACT</a></h2></div>
         </div>
     </div>
     <script type='text/javascript' src='/static/js/ohman.js'></script>
